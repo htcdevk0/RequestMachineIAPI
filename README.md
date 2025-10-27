@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://ibb.co/xtYRGz1q" alt="RequestMachineIAPI Logo" width="120"/>
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/XrDvpF7x/LIb-Logo.png" alt="LIb-Logo" border="0" width="120"/>
+  </a>
 </p>
 
 # RequestMachineIAPI
