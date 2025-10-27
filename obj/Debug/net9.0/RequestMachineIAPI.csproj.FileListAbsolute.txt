@@ -1,0 +1,14 @@
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\bin\Debug\net9.0\RequestMachineIAPI.exe
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\bin\Debug\net9.0\RequestMachineIAPI.deps.json
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\bin\Debug\net9.0\RequestMachineIAPI.runtimeconfig.json
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\bin\Debug\net9.0\RequestMachineIAPI.dll
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\bin\Debug\net9.0\RequestMachineIAPI.pdb
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.AssemblyInfoInputs.cache
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.AssemblyInfo.cs
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.dll
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\refint\RequestMachineIAPI.dll
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.pdb
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\RequestMachineIAPI.genruntimeconfig.cache
+C:\Users\Pietro\RiderProjects\RequestMachineIAPI\RequestMachineIAPI\obj\Debug\net9.0\ref\RequestMachineIAPI.dll
