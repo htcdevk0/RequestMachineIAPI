@@ -15,6 +15,8 @@ Library to get machine hardware information for .NET applications.
 - Get CPU info *(if you add later)*  
 - Easy to integrate into any .NET project  
 
+- Visit https://rmachineiapi.site
+
 ## Installation
 
 Use NuGet to install the package:
